@@ -1,0 +1,31 @@
+body{
+    background-color: cyan;
+}
+#score{
+    font-size: 70;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 50px;
+}
+#timer {
+    font-size: 70;
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 2000px;
+}
+#title{
+    font-size: 70;
+    color: dodgerblue;
+    font: bolder;
+}
+#label{
+    font-size: 50;
+
+}
+#confidence{
+    font-size: 50;
+    
+}
+#s_t_d{
+    font-size: 70;
+    font-family: 'Monoton', cursive;
+    color: red;
+}
